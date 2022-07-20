@@ -51,13 +51,12 @@ ScrollingFrame.BorderColor3 = Color3.fromRGB(27, 42, 53)
 ScrollingFrame.Position = UDim2.new(0.22242479, 0, 0.309433967, 0)
 ScrollingFrame.Size = UDim2.new(0, 569, 0, 309)
 ScrollingFrame.CanvasPosition = Vector2.new(0, 300)
+ScrollingFrame.Draggable = true
 
 Frame.Parent = ScrollingFrame
 Frame.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 Frame.BackgroundTransparency = 1.000
 Frame.Size = UDim2.new(0, 100, 0, 100)
-Frame.Draggable = true
-Frame.Active = true
 
 Script.Name = "Script"
 Script.Parent = Frame
