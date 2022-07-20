@@ -565,6 +565,18 @@ Script_24.MouseButton1Down:connect(function()
 loadstring(game:HttpGet(('https://raw.githubusercontent.com/RapidoBuzz/RhyteredExploitAPI/main/scripts/24.lua'),true))()
 end)
 
+None.MouseButton1Down:connect(function()
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/RapidoBuzz/WrathSploitAPI/main/scripts/25.lua'),true))()
+end)
+
+None_2.MouseButton1Down:connect(function()
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/RapidoBuzz/WrathSploitAPI/main/scripts/26.lua'),true))()
+end)
+
+Script_25.MouseButton1Down:connect(function()
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/RapidoBuzz/WrathSploitAPI/main/scripts/27.lua'),true))()
+end)
+
 -- Scripts:
 
 local function EPHWKZA_fake_script() -- closebutton.LocalScript 
