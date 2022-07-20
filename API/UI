@@ -1,3 +1,8 @@
+-- WrathSploit
+-- WrathSploit Script Hub Beta0.1
+-- By RobergemCorp
+
+-- Instances:
 local BergSploitGUI = Instance.new("ScreenGui")
 local ScrollingFrame = Instance.new("ScrollingFrame")
 local Frame = Instance.new("Frame")
@@ -566,15 +571,15 @@ loadstring(game:HttpGet(('https://raw.githubusercontent.com/RapidoBuzz/RhyteredE
 end)
 
 None.MouseButton1Down:connect(function()
-loadstring(game:HttpGet(('https://raw.githubusercontent.com/RapidoBuzz/WrathSploitAPI/main/scripts/25.lua'),true))()
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/RapidoBuzz/WrathSploitAPI/main/API/scripts/25.lua'),true))()
 end)
 
 None_2.MouseButton1Down:connect(function()
-loadstring(game:HttpGet(('https://raw.githubusercontent.com/RapidoBuzz/WrathSploitAPI/main/scripts/26.lua'),true))()
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/RapidoBuzz/WrathSploitAPI/main/API/scripts/26.lua'),true))()
 end)
 
 Script_25.MouseButton1Down:connect(function()
-loadstring(game:HttpGet(('https://raw.githubusercontent.com/RapidoBuzz/WrathSploitAPI/main/scripts/27.lua'),true))()
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/RapidoBuzz/WrathSploitAPI/main/API/scripts/27.lua'),true))()
 end)
 
 -- Scripts:
