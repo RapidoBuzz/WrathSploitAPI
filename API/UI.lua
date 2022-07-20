@@ -561,15 +561,15 @@ loadstring(game:HttpGet(('https://raw.githubusercontent.com/RapidoBuzz/RhyteredE
 end)
 
 Script_22.MouseButton1Down:connect(function()
-loadstring(game:HttpGet(('https://raw.githubusercontent.com/RapidoBuzz/RhyteredExploitAPI/main/1.lua'),true))()
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/RapidoBuzz/RhyteredExploitAPI/main/API/1.lua'),true))()
 end)
 
 Script_23.MouseButton1Down:connect(function()
-loadstring(game:HttpGet(('https://raw.githubusercontent.com/RapidoBuzz/RhyteredExploitAPI/main/2.lua'),true))()
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/RapidoBuzz/RhyteredExploitAPI/main/API/2.lua'),true))()
 end)
 
 Script_24.MouseButton1Down:connect(function()
-loadstring(game:HttpGet(('https://raw.githubusercontent.com/RapidoBuzz/RhyteredExploitAPI/main/0.lua'),true))()
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/RapidoBuzz/RhyteredExploitAPI/main/API/0.lua'),true))()
 end)
 
 None.MouseButton1Down:connect(function()
