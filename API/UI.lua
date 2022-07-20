@@ -56,6 +56,8 @@ Frame.Parent = ScrollingFrame
 Frame.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 Frame.BackgroundTransparency = 1.000
 Frame.Size = UDim2.new(0, 100, 0, 100)
+Frame.Draggable = true
+Frame.Active = true
 
 Script.Name = "Script"
 Script.Parent = Frame
