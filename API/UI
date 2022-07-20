@@ -567,19 +567,19 @@ loadstring(game:HttpGet(('https://raw.githubusercontent.com/RapidoBuzz/RhyteredE
 end)
 
 Script_24.MouseButton1Down:connect(function()
-loadstring(game:HttpGet(('https://raw.githubusercontent.com/RapidoBuzz/RhyteredExploitAPI/main/scripts/24.lua'),true))()
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/RapidoBuzz/RhyteredExploitAPI/main/scripts/1.lua'),true))()
 end)
 
 None.MouseButton1Down:connect(function()
-loadstring(game:HttpGet(('https://raw.githubusercontent.com/RapidoBuzz/WrathSploitAPI/main/API/scripts/25.lua'),true))()
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/RapidoBuzz/WrathSploitAPI/main/API/scripts/2.lua'),true))()
 end)
 
 None_2.MouseButton1Down:connect(function()
-loadstring(game:HttpGet(('https://raw.githubusercontent.com/RapidoBuzz/WrathSploitAPI/main/API/scripts/26.lua'),true))()
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/RapidoBuzz/WrathSploitAPI/main/API/scripts/3.lua'),true))()
 end)
 
 Script_25.MouseButton1Down:connect(function()
-loadstring(game:HttpGet(('https://raw.githubusercontent.com/RapidoBuzz/WrathSploitAPI/main/API/scripts/27.lua'),true))()
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/RapidoBuzz/WrathSploitAPI/main/API/scripts/4.lua'),true))()
 end)
 
 -- Scripts:
